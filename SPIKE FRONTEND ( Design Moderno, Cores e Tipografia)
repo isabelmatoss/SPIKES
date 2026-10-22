@@ -1,0 +1,10 @@
+O Guia Visual de Referências tem como objetivo apresentar os principais elementos do design moderno aplicados 
+às interfaces digitais. O trabalho aborda uma paleta de cores, escolhida com base na psicologia das cores e 
+na identidade visual, e combinações tipográficas que favorecem a organização e a legibilidade dos textos.
+Também são apresentados princípios de composição visual, como contraste, alinhamento, hierarquia e espaçamento, 
+que contribuem para uma interface mais organizada, intuitiva e acessível. O guia analisa duas referências de interfaces
+modernas, Apple Human Interface Guidelines e Material Design, destacando suas boas práticas de design e possibilidades de 
+aplicação.
+Por fim, é realizada a verificação do contraste das cores por meio de uma ferramenta de acessibilidade, considerando as 
+recomendações WCAG, para garantir que os textos e elementos visuais sejam fáceis de identificar e ler. Todo o material deve 
+ser organizado no Figma, utilizando exemplos visuais, cores, tipografias e layouts que demonstrem os conceitos estudados.
